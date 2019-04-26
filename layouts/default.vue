@@ -23,7 +23,7 @@
       <div class="footer-links">
         <p style="color: #646464">connect with me</p>
 
-        <a target="_blank" href="mailto:arianandcode@gmail.com">email</a>
+        <a href="mailto:arianandcode@gmail.com">email</a>
 
         <a target="_blank" href="https://twitter.com/arian__prince">twitter</a>
 
