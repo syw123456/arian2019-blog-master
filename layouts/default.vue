@@ -136,7 +136,7 @@ export default {
 
       let css = "text-shadow: 2px 2px rgb(0, 255, 99); font-size: 24px; font-family: sans-serif";
 
-      console.log("%c\n\nMy senses tell me you must be some sort of super coder! 😎 \n\nI have open-sourced all of the code for this site, feel free to fork the repository:\n\nhttps://github.com/syw123456/arian2019-nuxt\n\n\n\n", css);
+      console.log("%c\n\nMy senses tell me you must be some sort of super coder! 😎 \n\nI have open-sourced all of the code for this site, feel free to fork the repository:\n\n\nXXX\n\n\n", css);
 
   },
 
