@@ -159,7 +159,9 @@ html {
   box-sizing: border-box;
   text-align: left;
 }
-
+body{
+  overflow: hidden;
+}
 *,
 *:before,
 *:after {
@@ -252,7 +254,7 @@ a:hover {
 .footer-links {
   display: flex;
   flex-flow: row;
-  width: auto;
+  width: 100%;
   height: 40px;
   align-items: center;
   margin-left: 100px;
