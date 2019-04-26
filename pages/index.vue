@@ -1,7 +1,7 @@
 <template>
     <div class="content">
 
-      <h1 class="name">arian</h1>
+      <h1 class="name">Arian</h1>
 
       <h2 class="tagline">developer + <br/>app designer </h2>
 
