@@ -30,7 +30,7 @@
         },
 
         async asyncData() {
-            const res = await axios.get('https://sunilsandhu-47c54.firebaseio.com/media.json');
+            const res = await axios.get('http://124.156.194.101/arian2019-blog-master/data/media.json');
 
             // turn object of objects into array of objects, then reverse in order to show media in reverse chronological order
             const media = Object.values(res.data).reverse();

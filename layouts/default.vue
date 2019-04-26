@@ -20,30 +20,26 @@
       <nuxt />
 
 
-      <!--<div class="footer-links">-->
-        <!--<p style="color: #646464">connect with me</p>-->
+      <div class="footer-links">
+        <p style="color: #646464">connect with me</p>
 
-        <!--&lt;!&ndash;<a href="https://www.linkedin.com/in/sunilsandhu">linkedin</a>&ndash;&gt;-->
+        <a href="mailto:arianandcode@gmail.com">email</a>
 
-        <!--<a href="mailto:hello@sunilsandhu.com">email</a>-->
+        <a href="https://twitter.com/arian__prince">twitter</a>
 
-        <!--<a href="https://twitter.com/sunilsandhu">twitter</a>-->
-
-        <!--<a href="https://instagram.com/sunilsandhu">instagram</a>-->
-
-        <!--<a href="https://medium.com/@sunilsandhu">medium</a>-->
-      <!--</div>-->
+        <a href="https://medium.com/@arian">medium</a>
+      </div>
 
 
 
-    <!--</div>-->
 
 
-    <!--<div class="right-side">-->
+<!--
+    <div class="right-side">
 
-      <!--<div class="colored-box" :style="'background-color:' + this.boxColor"></div>-->
+      <div class="colored-box" :style="'background-color:' + this.boxColor"></div>
 
-    <!--</div>-->
+    </div>-->
 
   </section>
 </template>

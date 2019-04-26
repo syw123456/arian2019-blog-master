@@ -1,0 +1,16 @@
+{
+  "001": {
+    "format": "article",
+    "href": "https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd",
+    "medium": "JavaScript in Plain English",
+    "title": "I created the exact same app in React and Vue. Here are the differences.",
+    "year": 2018
+  },
+  "002": {
+    "format": "article",
+    "href": "https://medium.com/javascript-in-plain-english/learn-how-to-use-map-filter-and-reduce-in-5-minutes-fbf5c5540b2f",
+    "medium": "JavaScript in Plain English",
+    "title": "How to use Map, Filter and Reduce in JavaScript",
+    "year": 2018
+  }
+}
