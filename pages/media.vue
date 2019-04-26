@@ -20,6 +20,7 @@
 
 <script>
   import axios from 'axios';
+  import data from '../data/media.json'
 
 
     export default {
@@ -30,10 +31,9 @@
         },
 
         async asyncData() {
-            const res = await axios.get('http://124.156.194.101/arian2019-blog-master/data/media.json');
-
+            const res = data;
             // turn object of objects into array of objects, then reverse in order to show media in reverse chronological order
-            const media = Object.values(res.data).reverse();
+            const media = Object.values(res).reverse();
             return {media};
 
         },

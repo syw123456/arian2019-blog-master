@@ -252,7 +252,7 @@ a:hover {
 .footer-links {
   display: flex;
   flex-flow: row;
-  width: 100%;
+  width: auto;
   height: 40px;
   align-items: center;
   margin-left: 100px;
