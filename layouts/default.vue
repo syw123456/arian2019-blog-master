@@ -521,7 +521,7 @@ h2 {
     margin-left: initial;
     /*justify-content: space-around;*/
     /*border-top: 1px solid grey;*/
-    box-shadow: -1px -1px 5px 0px rgba(128, 128, 128, 0.2);
+    /*box-shadow: -1px -1px 5px 0px rgba(128, 128, 128, 0.2);*/
     position: fixed;
     bottom: 0;
     z-index: 2;
