@@ -1,8 +1,8 @@
 <template>
     <div class="navigation">
-        <nuxt-link to="/" class="big">home</nuxt-link>
-        <nuxt-link to="/about" class="big">about</nuxt-link>
-        <nuxt-link to="/media" class="big">media</nuxt-link>
+        <nuxt-link to="/" class="big">Home</nuxt-link>
+        <nuxt-link to="/about" class="big">About</nuxt-link>
+        <nuxt-link to="/media" class="big">Media</nuxt-link>
     </div>
 </template>
 

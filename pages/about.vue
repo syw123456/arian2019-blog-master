@@ -1,9 +1,9 @@
 <template>
     <div class="content">
 
-        <h1 class="name">about</h1>
+        <h1 class="name">About</h1>
 
-        <p>i am a <strong>digital creator</strong>, located at the intersection between full-stack development, user experience, and interface design. i am the <strong>editor of javascript in plain english</strong>. i am currently working as <strong>a full-stack developer</strong> for a behavioural psychology-led research and design agency in the Makati.</p>
+        <p>I am a <strong>digital creator</strong>, located at the intersection between full-stack development, user experience, and interface design. i am the <strong>editor of javascript in plain english</strong>. i am currently working as <strong>a full-stack developer</strong> for a behavioural psychology-led research and design agency in the Makati.</p>
 
         <nuxt-link to="/media" class="button">media</nuxt-link>
 

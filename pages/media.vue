@@ -1,7 +1,7 @@
 <template>
     <div class="content media">
 
-      <h1 class="name">media</h1>
+      <h1 class="name">Media</h1>
         <div v-for="item in media" :key="item.id">
 
           <p class="format">{{item.format}}</p>
