@@ -19,5 +19,12 @@
     "medium": "JavaScript Start-up Performance",
     "title": "JavaScript Start-up Performance",
     "year": 2017
+  },
+  "004": {
+  "format": "article",
+  "href": "https://overreacted.io/why-do-react-elements-have-typeof-property/",
+  "medium": "Why Do React Elements Have a $$typeof Property?",
+  "title": "Why Do React Elements Have a $$typeof Property?",
+  "year": 2018
   }
 }
