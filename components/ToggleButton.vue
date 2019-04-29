@@ -64,7 +64,7 @@
         height: 20px;
         top: 1px;
         border: 1px solid #2e2e2e;
-        /*box-shadow: 1px 1px 1px rgb(175, 173, 173);*/
+        box-shadow: 0px 0px 2px  1px #ffa7c4;
         border-radius: 15px;
         transition: all 200ms;
     }
