@@ -56,7 +56,7 @@ export default {
       boxColor: '#98EFBD',
       togglePosition: 1,
 //      toggleButtonColor: '#ACADAD',
-      toggleButtonColor: '#ea7e7e',
+      toggleButtonColor: '#98EFBD',
       toggleButtonBoxShadow: '1px 1px 1px #D3D3D3',
       bgColor: 'white',
       titleColor: 'black',
