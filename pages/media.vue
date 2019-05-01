@@ -58,7 +58,7 @@
     height: auto;
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 0px;
     /* max-width: none; */
     max-width: initial;
     margin-bottom: 60px;
