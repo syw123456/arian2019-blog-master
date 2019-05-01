@@ -1,5 +1,5 @@
 <template>
-  <section class="container" :style="'background-color:' + bgColor + ', height:'+ height+''">
+  <section class="container" :style="'background-color:' + bgColor + ''">
 
     <!--<div class="left-side">-->
 
@@ -61,7 +61,6 @@ export default {
       bgColor: 'white',
       titleColor: 'black',
       currentPage: '',
-      height:'-webkit-fill-available',
       linkColor: '#707070',
       navBackgroundColor: 'white',
       media: [],
@@ -108,7 +107,8 @@ export default {
 //          this.toggleButtonColor = '#ACADAD';
           this.toggleButtonColor = '#175A5A';
           this.navBackgroundColor = 'black';
-          this.height ='-webkit-fill-available';
+
+
           this.toggleButtonBoxShadow = 'initial'
       },
 
