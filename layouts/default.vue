@@ -1,5 +1,5 @@
 <template>
-  <section class="container" :style="'background-color:' + bgColor + ''">
+  <section class="container" :style="'background-color:' + bgColor + ', height:'+ height+''">
 
     <!--<div class="left-side">-->
 
