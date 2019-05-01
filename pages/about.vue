@@ -6,7 +6,7 @@
     <p>I am a <strong>digital creator</strong>, located at the intersection between full-stack development, user
       experience, and interface design. I am the <strong>editor of javascript in plain english</strong>. i am currently
       working as <strong>a full-stack developer</strong> for a behavioural psychology-led research and design agency in
-      Makati.</p>
+      China.</p>
 
     <nuxt-link to="/media" class="button">media</nuxt-link>
 
