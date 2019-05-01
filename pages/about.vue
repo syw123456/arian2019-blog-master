@@ -1,7 +1,6 @@
 <template>
   <div class="content">
-    <h1 class="name">Hello.</h1>
-    <p style="font-weight:500; font-size:2.2em">My name is Arian.</p>
+    <h1 class="name">About</h1>
     <p>I am a <strong>digital creator</strong>, located at the intersection between full-stack development, user
       experience, and interface design. I am the <strong>editor of javascript in plain english</strong>. i am currently
       working as <strong>a full-stack developer</strong> for a behavioural psychology-led research and design agency in
@@ -25,6 +24,7 @@
     word-spacing: -0.04em;
     line-height: 1.3em;
   }
+
   @media only screen and (max-width: 599px) {
     h2, h3, h4, h5, p {
       font-size: 1.2em;
@@ -35,4 +35,5 @@
       line-height: 1.4em;
     }
   }
+
 </style>
