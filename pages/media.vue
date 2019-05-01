@@ -62,6 +62,7 @@
     /* max-width: none; */
     max-width: initial;
     margin-bottom: 60px;
+    height: 100vh;
 }
 
 
