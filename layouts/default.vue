@@ -22,12 +22,10 @@
 
       <div class="footer-links">
         <p style="color: #646464">connect with me</p>
-
         <a href="mailto:arianandcode@gmail.com">email</a>
-
         <a target="_blank" href="https://twitter.com/arian__prince">twitter</a>
-
         <a target="_blank" href="https://medium.com/@arian">medium</a>
+        <a target="_blank" href="https://www.instagram.com/karen.shi.520">instagram</a>
       </div>
 
 
@@ -161,7 +159,7 @@ html {
 }
 body{
   overflow: hidden;
-  
+
 }
 *,
 *:before,
