@@ -161,6 +161,7 @@ html {
 }
 body{
   overflow: hidden;
+  
 }
 *,
 *:before,

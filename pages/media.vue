@@ -3,33 +3,23 @@
 
       <h1 class="name">Media</h1>
         <div v-for="item in media" :key="item.id">
-
           <p class="format">{{item.format}}</p>
-
           <a class="title" :href="item.href" target="_blank">{{item.title}}</a>
-
           <p class="medium">{{item.medium}}</p>
-
           <p class="year">{{item.year}}</p>
-
         </div>
 
     </div>
 </template>
-
-
 <script>
-  import axios from 'axios';
+    import axios from 'axios';
   import data from '../data/media.json'
-
-
     export default {
         data() {
             return {
                 color: 'blue',
             }
         },
-
         async asyncData() {
             const res = data;
             // turn object of objects into array of objects, then reverse in order to show media in reverse chronological order
@@ -37,12 +27,8 @@
             return {media};
 
         },
-
-
         components: {
-
         },
-
         methods: {
         }
 

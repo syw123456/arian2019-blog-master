@@ -13,9 +13,7 @@
     components: {}
   }
 </script>
-
 <style scoped>
-
   h2, h3, h4, h5, p {
     font-size: 1.3em;
     margin: 5px 0;
@@ -24,7 +22,6 @@
     word-spacing: -0.04em;
     line-height: 1.3em;
   }
-
   @media only screen and (max-width: 599px) {
     h2, h3, h4, h5, p {
       font-size: 1.2em;
