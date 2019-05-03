@@ -33,27 +33,22 @@ h1:before,h1:after{
   left: -1px;
   content: attr(data-text);
   -webkit-transform-origin: left top;
-  -moz-transform-origin: left top;
-  -ms-transform-origin: left top;
   transform-origin: left top;
-  -webkit-transition: all ease-out 0.3s;
-  -moz-transition: all ease-out 0.3s;
-  -ms-transition: all ease-out 0.3s;
   transition: all ease-out 0.3s;
 }
 h1:before{
   color: rgba(0,0,0,0.3);
   -webkit-transform: scale(1.1,1) skew(0,20deg);
-  -moz-transform: scale(1.1,1) skew(0,20deg);
-  -ms-transform: scale(1.1,1) skew(0,20deg);
-  transform: scale(1.1,1) skew(0,20deg);
+  transform: scale(1.1,1) skew(0,0deg);
+  -moz-transform:scale(1.1,1) skew(0,0deg);
+  -ms-transform:scale(1.1,1) skew(0,0deg);
 }
 h1:after{
-  color: #0fa0b1;
+  color: #5099d7;
   -webkit-transform: rotateY(-40deg);
-  -moz-transform: rotateY(-40deg);
-  -ms-transform: rotateY(-40deg);
-  transform: rotateY(-40deg);
-  text-shadow: -1px 0 1px #0fa0b1, 1px 0 1px rgba(0,0,0,0.8);
+  transform: rotateY(0deg);
+  -moz-transform:rotateY(0deg);
+  -ms-transform:rotateY(0deg);
+  text-shadow: -1px 0 1px #5099d7, 1px 0 1px rgba(0,0,0,0.8);
 }
 </style>
