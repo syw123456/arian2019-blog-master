@@ -19,5 +19,12 @@
     "medium": "JavaScript Start-up Performance",
     "title": "JavaScript Start-up Performance",
     "year": 2017
+  },
+  "004": {
+    "format": "article",
+    "href": "https://medium.com/@fabianosanttana/building-web-application-with-flutter-89ab070680",
+    "medium": "Building a Web application with Flutter",
+    "title": "Building a Web application with Flutter",
+    "year": 2017
   }
 }
